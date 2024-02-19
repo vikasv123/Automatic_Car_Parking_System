@@ -3,11 +3,7 @@ The Automatic Car Parking System is a project designed to efficiently manage par
 
 <!-- # OUTPUT: [Click Here](https://drive.google.com/file/d/1agFMVPoSXfOcSc7ZRIiOiP2Fn8rNrXBy/view?usp=sharing) -->
 
-
-
-https://github.com/vikasv123/Automatic_Car_Parking_System/assets/125880662/5f800763-033d-4646-8a1a-abb6b205a5ce
-
-
+https://github.com/vikasv123/Automatic_Car_Parking_System/assets/125880662/251fa9df-9001-4491-a8b8-895cbf28bb18
 
 # Components:
 1. Arduino Board: Acts as the brain of the system, controlling sensor inputs and display outputs.
